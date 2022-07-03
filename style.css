@@ -1,6 +1,7 @@
 p{
     color: crimson;
-    background-color:aquamarine
+    background-color:aquamarine;
+    padding: auto;
     
 }
 #pushadd{
@@ -10,4 +11,6 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: darkblue;
     font-size: larger;
+    background-color: blanchedalmond;
+    margin: 20px 30px 35px 15px;
 }
